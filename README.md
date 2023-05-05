@@ -1,2 +1,2 @@
 # MLT-Dump
-Notebooks for future ref :)
+Machine learning notebooks for future ref :)
